@@ -8,10 +8,11 @@ XAMPP: Descarga e instala XAMPP y asegúrate de que el módulo de MySQL esté co
 Pasos para clonar e instalar el proyecto
 
 1. Clona el repositorio:
-    git clone https://github.com/usuario/nombre-del-repositorio.git
+    git clone https://github.com/lautaroRondan/proyecto-tickets.git
 
 2. Navega al directorio del proyecto:
-    cd nombre-del-repositorio
+    cd proyecto-tickets
+    cd ticket-back
 
 3. Instala las dependencias necesarias:
     npm install
@@ -28,7 +29,7 @@ Pasos para clonar e instalar el proyecto
 5.Configuración de la base de datos MySQL con XAMPP:
     Abre el panel de control de XAMPP.
     Activa el módulo MySQL.
-    Abre phpMyAdmin (desde XAMPP) y crea una base de datos con el nombre definido en el archivo .env (en este caso, tickets). se adjunta un backup de la base de datos.
+    Abre phpMyAdmin (desde XAMPP) y crea una base de datos con el nombre definido en el archivo .env (en este caso, tickets). se adjunta un backup de la base de datos en la carpeta bd.
 
 6.Ejecuta el servidor:
     npm start

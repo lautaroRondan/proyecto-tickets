@@ -8,11 +8,12 @@ Git
 Pasos para clonar e instalar el proyecto
 1. Clonar el repositorio
     Utiliza el siguiente comando para clonar el repositorio en tu máquina local:
-    git clone https://github.com/usuario/proyecto-vite-react.git
+    git clone https://github.com/lautaroRondan/proyecto-tickets.git
 
 2. Navegar al directorio del proyecto
     Una vez que hayas clonado el repositorio, entra en la carpeta del proyecto:
-    cd nombre de la carpeta del proyecto
+    cd proyecto-tickets
+    cd ticket-front
 
 3. Instalar las dependencias
     Usa el siguiente comando para instalar todas las dependencias del proyecto:
@@ -28,3 +29,8 @@ Pasos para clonar e instalar el proyecto
 5. Ejecución del proyecto
     Una vez que hayas hecho los cambios necesarios en el archivo .env, puedes ejecutar el proyecto en modo de desarrollo con el siguiente comando:
     npm run dev
+
+nota:
+si no quieren crear un usuario nuevo, pueden ingresar con el: 
+mail: luti2296@gmail.com  
+contraseña: 123456
