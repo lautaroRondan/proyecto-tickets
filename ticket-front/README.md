@@ -7,7 +7,7 @@ Git
 
 Pasos para clonar e instalar el proyecto
 1. Clonar el repositorio
-    Utiliza el siguiente comando para clonar el repositorio en tu máquina local:
+    Utiliza el siguiente comando para clonar el repositorio en tu máquina local (si ya lo clonaste destima esta parte):
     git clone https://github.com/lautaroRondan/proyecto-tickets.git
 
 2. Navegar al directorio del proyecto
